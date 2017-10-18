@@ -329,6 +329,7 @@ Subtotal,"Tarpinė suma",module,Magento_Paypal
 "Remember Me","Prisiminti mane",module,Magento_Persistent
 "What's this?","Kas tai?",module,Magento_Persistent
 Price:,Kaina:,module,Magento_ProductAlert
+"Disallowed file type.","Neleistinas failo tipas.",module,Magento_ProductVideo
 "Shipping & Handling","Pristatymas ir Paruošimas",module,Magento_Quote
 Shipping,Pristatymas,module,Magento_Quote
 Subtotal,"Tarpinė suma",module,Magento_Quote
