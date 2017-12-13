@@ -47,6 +47,7 @@ No,Ne,module,Magento_Backend
 "New Store","Nauja parduotuvė",module,Magento_Backend
 "Edit Store View","Redaguoti parduotuvės rodinį",module,Magento_Backend
 "New Store View","Naujas parduotuvės rodinys",module,Magento_Backend
+Name,Vardas,module,Magento_Backend
 "Web Site Information","Svetainės informacija",module,Magento_Backend
 "Default Store","Numatytoji parduotuvė",module,Magento_Backend
 Stores,Parduotuvės,module,Magento_Backend
@@ -88,6 +89,7 @@ Yes,Taip,module,Magento_Braintree
 Edit,Redaguoti,module,Magento_Braintree
 Price,Kaina,module,Magento_Bundle
 Position,Rikiavimas,module,Magento_Bundle
+Name,Vardas,module,Magento_Bundle
 "* Required Fields","* Privalomi laukai",module,Magento_Bundle
 "Product Name","Prekės pavadinimas",module,Magento_CatalogInventory
 Qty,Kiekis,module,Magento_CatalogInventory
@@ -98,6 +100,8 @@ Home,Pradžia,module,Magento_CatalogSearch
 "Go to Home Page","Grįžti į pradinį puslapį",module,Magento_CatalogSearch
 Yes,Taip,module,Magento_CatalogSearch
 "Search results for: '%1'","Paieškos rezultatai: ""%1""",module,Magento_CatalogSearch
+name,vardas,module,Magento_CatalogSearch
+Name,Vardas,module,Magento_Catalog
 Price,Kaina,module,Magento_Catalog
 Position,Rikiavimas,module,Magento_Catalog
 No,Ne,module,Magento_Catalog
@@ -234,6 +238,7 @@ Login,Prisijungti,module,Magento_Customer
 "Sign Up for Newsletter","Užsisakykite naujienlaiškį",module,Magento_Customer
 "Confirm Password","Patvirtinkite slaptažodį",module,Magento_Customer
 "New Customers","Naujiems klientams",module,Magento_Customer
+Name,Vardas,module,Magento_Customer
 "Tax/VAT number","PVM mokėtojo kodas",module,Magento_Customer
 State/Province,Rajonas/apskritis,module,Magento_Directory
 "My Downloadable Products","Mano Download'ai",module,Magento_Downloadable
@@ -244,6 +249,7 @@ Date,Data,module,Magento_Downloadable
 "View Order","Peržiūrėti užsakymą",module,Magento_Downloadable
 "You have not purchased any downloadable products yet.","Jūs nepirkote jokių download'ų dar.",module,Magento_Downloadable
 Back,Grįžti,module,Magento_Downloadable
+Qty,Kiekis,module,Magento_Downloadable
 Yes,Taip,module,Magento_Eav
 Date,Data,module,Magento_Eav
 Yes/No,Taip/Ne,module,Magento_Eav
@@ -256,9 +262,11 @@ Cancel,Atšaukti,module,Magento_GiftMessage
 "Product Name","Prekės pavadinimas",module,Magento_GroupedProduct
 Price,Kaina,module,Magento_GroupedProduct
 Qty,Kiekis,module,Magento_GroupedProduct
+Name,Vardas,module,Magento_GroupedProduct
 Filter,Filtruoti,module,Magento_ImportExport
 Processing,Vykdoma,module,Magento_Indexer
 Save,Išsaugoti,module,Magento_Integration
+Name,Vardas,module,Magento_Integration
 Email,"El. paštas",module,Magento_Integration
 Edit,Redaguoti,module,Magento_Integration
 No,Ne,module,Magento_LayeredNavigation
@@ -274,6 +282,7 @@ Position,Rikiavimas,module,Magento_LayeredNavigation
 "No partners were found","Nerasta jokių partnerių",module,Magento_Marketplace
 "Shipping Methods","Pristatymo būdai",module,Magento_Multishipping
 "Edit Address","Redaguoti adresą",module,Magento_Multishipping
+"Please specify a payment method.","Pasirinkite apmokėjimo būdą.",module,Magento_Multishipping
 "Place Order",Užsakyti,module,Magento_Multishipping
 "Add New Address","Pridėti naują adresą",module,Magento_Multishipping
 Qty,Kiekis,module,Magento_Multishipping
@@ -351,12 +360,14 @@ Shipping,Pristatymas,module,Magento_Reports
 "First Name",Vardas,module,Magento_Reports
 "Last Name",Pavardė,module,Magento_Reports
 "Items in Cart","Prekės krepšelyje",module,Magento_Reports
+Name,Vardas,module,Magento_Reports
 "Shopping Cart","Prekių krepšelis",module,Magento_Reports
 "Add to Compare","Pridėti palyginimui",module,Magento_Reports
 Status,Būsena,module,Magento_Review
 Next,Toliau,module,Magento_Review
 Action,Veiksmas,module,Magento_Review
 Edit,Redaguoti,module,Magento_Review
+Name,Vardas,module,Magento_Review
 Price,Kaina,module,Magento_Review
 Pending,Laukiama,module,Magento_Review
 "Product Name","Prekės pavadinimas",module,Magento_Review
@@ -365,6 +376,7 @@ Back,Grįžti,module,Magento_Review
 "* Required Fields","* Privalomi laukai",module,Magento_Review
 Apply,Taikyti,module,Magento_Rule
 Actions,Veiksmai,module,Magento_SalesRule
+Apply,Pritaikyti,module,Magento_SalesRule
 Yes,Taip,module,Magento_SalesRule
 Description,Aprašymas,module,Magento_SalesRule
 "Discount (%1)","Nuolaida (%1)",module,Magento_SalesRule
@@ -407,6 +419,7 @@ State/Province,Rajonas/apskritis,module,Magento_Sales
 "Street Address",Adresas,module,Magento_Sales
 "Zip/Postal Code","Pašto kodas",module,Magento_Sales
 Processing,Vykdoma,module,Magento_Sales
+Apply,Pritaikyti,module,Magento_Sales
 "Order Total","Užsakymo suma",module,Magento_Sales
 "Add New Address","Pridėti naują adresą",module,Magento_Sales
 "Save in address book","Įrašyti adresų knygelėje",module,Magento_Sales
@@ -416,6 +429,10 @@ Item,Prekė,module,Magento_Sales
 "Subtotal (Excl. Tax)","Tarpinė suma (be mokesčių)",module,Magento_Sales
 "Subtotal (Incl. Tax)","Iš viso (su PVM)",module,Magento_Sales
 Comment,Komentaras,module,Magento_Sales
+"Order Date","Užsakymo data",module,Magento_Sales
+"Order Date (%1)","Užsakymo data (%1)",module,Magento_Sales
+"Shipped By","Išsiųsta su",module,Magento_Sales
+"Tracking Number","Sekimo numeris",module,Magento_Sales
 "Product Name","Prekės pavadinimas",module,Magento_Sales
 "Order #","Užsakymo nr.",module,Magento_Sales
 Date,Data,module,Magento_Sales
@@ -432,6 +449,7 @@ Date,Data,module,Magento_Sales
 "Qty Shipped","Išsiųstas kiekis",module,Magento_Sales
 "Recent Orders","Naujausi užsakymai",module,Magento_Sales
 "View All","Peržiūrėti visus",module,Magento_Sales
+Name,Vardas,module,Magento_SendFriend
 "* Required Fields","* Privalomi laukai",module,Magento_SendFriend
 Back,Grįžti,module,Magento_SendFriend
 Add,Pridėti,module,Magento_Shipping
@@ -446,10 +464,13 @@ Action,Veiksmas,module,Magento_Shipping
 "Print All Shipments","Spausdinti visas siuntas",module,Magento_Shipping
 "Shipment #","Siunta #",module,Magento_Shipping
 "Print Shipment","Spausdinti siuntas",module,Magento_Shipping
+"Tracking Number(s):","Sekimo numeris(-iai):",module,Magento_Shipping
+"Tracking Number:","Sekimo numeris:",module,Magento_Shipping
 Date,Data,module,Magento_Shipping
 Description,Aprašymas,module,Magento_Shipping
 Country,Šalis,module,Magento_Tax
 Back,Grįžti,module,Magento_Tax
+Name,Vardas,module,Magento_Tax
 "Grand Total (Excl.Tax)","Suma (Atsk.Mok.)",module,Magento_Tax
 "Grand Total (Incl.Tax)",Suma,module,Magento_Tax
 Tax,Mokesčiai,module,Magento_Tax
@@ -485,7 +506,9 @@ Password,Slaptažodis,module,Magento_User
 Yes,Taip,module,Magento_Usps
 Tax,Mokesčiai,module,Magento_Weee
 Action,Veiksmas,module,Magento_Weee
+name,vardas,module,Magento_Widget
 description,aprašymas,module,Magento_Widget
+Apply,Pritaikyti,module,Magento_Widget
 "Wish List","Pageidavimų sąrašas",module,Magento_Wishlist
 "My Wish List","Mano norų sąrašas",module,Magento_Wishlist
 "%1's Wish List","%1's pageidavimų sąrašas",module,Magento_Wishlist
@@ -513,13 +536,15 @@ City,Miestas,module,Magento_Backend
 "Street Address","Gatvė ir numeris",module,Magento_Backend
 "VAT Number","PVM mokėtojo kodas",module,Magento_Backend
 Description,Aprašymas,module,Magento_Backend
+Name,Vardas,module,Magento_Backup
 Action,Veiksmas,module,Magento_Backup
 "Shipping Address","Pristatymo Adresas",module,Magento_Checkout
 "For delivery questions.","Pristatymo klausimais.",module,Magento_Checkout
 "Cart Subtotal","Krepšelio tarpinė suma",module,Magento_Checkout
+"Not yet calculated","Dar nepaskaičiuota",module,Magento_Checkout
 "Thank you for your purchase!","Dėkojame už jūsų užsakymą!",module,Magento_Checkout
 Contacts,Kontaktai,module,Magento_Contact
-"Contact Us",Susisiekite,module,Magento_Contact
+"Contact Us",Kontaktai,module,Magento_Contact
 "Email Options","El. pašto parinktys",module,Magento_Contact
 "First Name",Vardas,module,Magento_Customer
 "Last Name",Pavardė,module,Magento_Customer
@@ -542,6 +567,8 @@ Action,Veiksmas,module,Magento_Reports
 Description,Aprašymas,module,Magento_Reports
 Address,Adresas,module,Magento_Sales
 "Subtotal after discount","Tarpinė suma po nuolaidos",module,Magento_Sales
+Name,Vardas,module,Magento_Sales
+"Invoice Date","Sąskaitos-faktūros data",module,Magento_Sales
 "Print Invoices","Spausdinti sąskaitas",module,Magento_Sales
 Country,Šalis,module,Magento_Shipping
 "ZIP/Postal Code","Pašto kodas",module,Magento_Shipping
