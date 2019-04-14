@@ -70,6 +70,7 @@ Search,Ieškoti,module,Magento_Backend
 "Date selector","Datos parinkiklis",module,Magento_Backend
 "[ deleted ]","[ ištrinta ]",module,Magento_Backend
 "Select All","Rinktis viską",module,Magento_Backend
+" [deleted]"," [ištrinta]",module,Magento_Backend
 "Add New","Pridėti naują",module,Magento_Backend
 Export,Eksportuoti,module,Magento_Backend
 Submit,Siųsti,module,Magento_Backend
@@ -554,14 +555,19 @@ N/A,N/D,module,Magento_Sales
 "You entered incorrect data. Please try again.","Įvedėte neteisingus duomenis. Bandykite dar kartą.",module,Magento_Sales
 Home,Pradžia,module,Magento_Sales
 "Go to Home Page","Grįžti į pradinį puslapį",module,Magento_Sales
+"Shipping Address: ","Pristatymo Adresas: ",module,Magento_Sales
+"Billing Address: ","Atsiskaitymo Adresas: ",module,Magento_Sales
 Pending,Laukiama,module,Magento_Sales
 Canceled,Atšauktas,module,Magento_Sales
 Ordered,Užsakyta,module,Magento_Sales
+"Order # ","Užsakymo nr.",module,Magento_Sales
+"Order Date: ","Užsakymo data: ",module,Magento_Sales
 "Sold to:","Jūsų informacija:",module,Magento_Sales
 "Ship to:",Gavėjas:,module,Magento_Sales
 "Payment Method:","Mokėjimo būdas:",module,Magento_Sales
 "Shipping Method:","Pristatymo būdas:",module,Magento_Sales
 Qty,Kiekis,module,Magento_Sales
+"Invoice # ","Sąskaita # ",module,Magento_Sales
 City,Miestas,module,Magento_Sales
 Company,Įmonė,module,Magento_Sales
 Country,Šalis,module,Magento_Sales
@@ -798,4 +804,3 @@ Password,Slaptažodis,module,Magento_Usps
 "Product Name","Prekės pavadinimas",module,Magento_Wishlist
 Action,Veiksmas,module,Magento_Wishlist
 Delete,Ištrinti,module,Magento_Wishlist
-Summary,Santrauka,theme,frontend/Magento/blank
