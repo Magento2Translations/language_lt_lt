@@ -1,0 +1,1126 @@
+"Read Details","Perskaityti detales",module,Magento_AdminNotification
+"Mark as Read","Pažymėti kaip perskaitytą",module,Magento_AdminNotification
+"Are you sure?","Ar esate įsitikinę?",module,Magento_AdminNotification
+Remove,Pašalinti,module,Magento_AdminNotification
+"Messages Inbox","Gautos žinutės",module,Magento_AdminNotification
+"You have %1 new system messages","Jūs turite %1 naujas sistemines žinutes",module,Magento_AdminNotification
+"You have %1 new system message","Jūs turite %1 naują sisteminę žinutę",module,Magento_AdminNotification
+"Incoming Message","Gautos žinutės",module,Magento_AdminNotification
+close,uždaryti,module,Magento_AdminNotification
+Notifications,Pranešimai,module,Magento_AdminNotification
+"The message has been marked as Read.","Pranešimas buvo pažymėtas kaip perskaitytas.",module,Magento_AdminNotification
+"1 Hour","1 val",module,Magento_AdminNotification
+Close,Uždaryti,module,Magento_AdminNotification
+"Credit Card Number","Kortelės numeris",module,Magento_Authorizenet
+"Expiration Date","Galiojimo data",module,Magento_Authorizenet
+"Card Verification Number","Kortelės patvirtinimo numeris",module,Magento_Authorizenet
+Orders,Užsakymai,module,Magento_Backend
+Amounts,Sumos,module,Magento_Backend
+Bestsellers,Perkamiausi,module,Magento_Backend
+"New Customers","Naujiems klientams",module,Magento_Backend
+Customers,Klientai,module,Magento_Backend
+Customer,Klientas,module,Magento_Backend
+Guest,Svečias,module,Magento_Backend
+Total,"Iš viso",module,Magento_Backend
+Average,Vidurkis,module,Magento_Backend
+Product,Produktas,module,Magento_Backend
+Price,Kaina,module,Magento_Backend
+Quantity,Kiekis,module,Magento_Backend
+Views,Peržiūros,module,Magento_Backend
+Revenue,Pajamos,module,Magento_Backend
+Tax,Mokesčiai,module,Magento_Backend
+Shipping,Pristatymas,module,Magento_Backend
+"Images (.gif, .jpg, .png)","Vaizdai (.jpg, .gif, .png)",module,Magento_Backend
+"All Files","Visi failai",module,Magento_Backend
+"My Account","Mano paskyra",module,Magento_Backend
+"Account Information","Mano Informacija",module,Magento_Backend
+"First Name",Vardas,module,Magento_Backend
+"Last Name",Pavardė,module,Magento_Backend
+Email,"El. paštas",module,Magento_Backend
+"New Password","Naujas slaptažodis",module,Magento_Backend
+"Password Confirmation","Slaptažodžio patvirtinimas",module,Magento_Backend
+"Your Password","Jūsų slaptažodis",module,Magento_Backend
+"Images Cache","Vaizdų podėlis",module,Magento_Backend
+Clear,Išvalyti,module,Magento_Backend
+"Search Index","Paieškos indeksas",module,Magento_Backend
+"All Cache","Visi podėliai",module,Magento_Backend
+"No change","Jokių pokyčių",module,Magento_Backend
+Back,Grįžti,module,Magento_Backend
+Delete,Ištrinti,module,Magento_Backend
+Save,Išsaugoti,module,Magento_Backend
+Cancel,Atšaukti,module,Magento_Backend
+Yes,Taip,module,Magento_Backend
+No,Ne,module,Magento_Backend
+"Delete Store","Ištrinti parduotuvę",module,Magento_Backend
+"Save Store","Išsaugoti parduotuvę",module,Magento_Backend
+"Edit Store","Redaguoti praduotuvę",module,Magento_Backend
+"New Store","Nauja parduotuvė",module,Magento_Backend
+"Edit Store View","Redaguoti parduotuvės rodinį",module,Magento_Backend
+"New Store View","Naujas parduotuvės rodinys",module,Magento_Backend
+Name,Vardas,module,Magento_Backend
+"Web Site Information","Svetainės informacija",module,Magento_Backend
+"Default Store","Numatytoji parduotuvė",module,Magento_Backend
+Stores,Parduotuvės,module,Magento_Backend
+"Create Website","Kurti svetainę",module,Magento_Backend
+"Create Store","Kurti parduotuvę",module,Magento_Backend
+"Create Store View","Kurti parduotuvės rodinį",module,Magento_Backend
+Home,Pradžia,module,Magento_Backend
+Reset,"Nustatyti iš naujo",module,Magento_Backend
+Search,Ieškoti,module,Magento_Backend
+"Date selector","Datos parinkiklis",module,Magento_Backend
+"[ deleted ]","[ ištrinta ]",module,Magento_Backend
+"Select All","Rinktis viską",module,Magento_Backend
+" [deleted]"," [ištrinta]",module,Magento_Backend
+"Add New","Pridėti naują",module,Magento_Backend
+Export,Eksportuoti,module,Magento_Backend
+Submit,Siųsti,module,Magento_Backend
+"You did not sign in correctly or your account is temporarily disabled.","Prašome patikslinti prisijungimo duomenis, nepavykus prisijungti susisiekite su administratoriumi.",module,Magento_Backend
+"Order #%1","Užsakymas #%1",module,Magento_Backend
+"previous page","ankstesnis puslapis",module,Magento_Backend
+Password,Slaptažodis,module,Magento_Backend
+password,slaptažodis,module,Magento_Backend
+"Sign in",Prisijungti,module,Magento_Backend
+"Reload Data","Atnaujinti duomenis",module,Magento_Backend
+"Sign Out",Atsijungti,module,Magento_Backend
+Previous,Ankstesnis,module,Magento_Backend
+Next,Toliau,module,Magento_Backend
+"per page","per puslapį",module,Magento_Backend
+"Previous page","Ankstesnis puslapis",module,Magento_Backend
+Actions,Veiksmai,module,Magento_Backend
+"Are you sure you want to continue?","Ar tikrai norite tęsti?",module,Magento_Backup
+"User Password","Vartotojo slaptažodis",module,Magento_Backup
+"FTP Password","FTP slaptažodis",module,Magento_Backup
+Country,Šalis,module,Magento_Braintree
+"Credit Card Number","Kortelės numeris",module,Magento_Braintree
+"Please, enter valid Credit Card Number","Prašome įvesti galiojantį kortelės numerį",module,Magento_Braintree
+"Expiration Date","Galiojimo data",module,Magento_Braintree
+"Please, enter valid Expiration Date","Įveskite galiojančią galiojimo datą",module,Magento_Braintree
+"Card Verification Number","Kortelės patvirtinimo numeris",module,Magento_Braintree
+"Please, enter valid Card Verification Number","Prašome įvesti galiojantį kortelės patvirtinimo numerį",module,Magento_Braintree
+Actions,Veiksmai,module,Magento_Braintree
+SKU,"Prekės kodas",module,Magento_Bundle
+Price,Kaina,module,Magento_Bundle
+Delete,Ištrinti,module,Magento_Bundle
+N/A,N/D,module,Magento_Bundle
+Cancel,Atšaukti,module,Magento_Bundle
+Name,Vardas,module,Magento_Bundle
+Position,Rikiavimas,module,Magento_Bundle
+Ordered,Užsakyta,module,Magento_Bundle
+Canceled,Atšauktas,module,Magento_Bundle
+"* Required Fields","* Privalomi laukai",module,Magento_Bundle
+Availability,Prieinamumas,module,Magento_Bundle
+"In stock",Sandėlyje,module,Magento_Bundle
+"Out of stock","Nėra sandėlyje",module,Magento_Bundle
+Summary,Santrauka,module,Magento_Bundle
+Availability:,Prieinamumas:,module,Magento_Bundle
+Message:,Žinutė:,module,Magento_Bundle
+"Product Name","Prekės pavadinimas",module,Magento_Bundle
+Subtotal,"Tarpinė suma",module,Magento_Bundle
+"Qty Invoiced","Kiekis išrašytoje SF",module,Magento_Bundle
+"Qty Shipped","Išsiųstas kiekis",module,Magento_Bundle
+"Incorrect CAPTCHA","Neteisingi paveikslėlio duomenys",module,Magento_Captcha
+"Incorrect CAPTCHA.","Neteisingi paveikslėlio duomenys.",module,Magento_Captcha
+"Reload captcha",Atnaujinti,module,Magento_Captcha
+"Please type the letters below","Įveskite raides, žemiau",module,Magento_Captcha
+"In Stock",Sandėlyje,module,Magento_CatalogInventory
+"Out of Stock","Nėra sandėlyje",module,Magento_CatalogInventory
+"Product Name","Prekės pavadinimas",module,Magento_CatalogInventory
+Qty,Kiekis,module,Magento_CatalogInventory
+"Save and Continue Edit","Išsaugoti ir tęsti redagavimą",module,Magento_CatalogRule
+Save,Išsaugoti,module,Magento_CatalogRule
+SKU,"Prekės kodas",module,Magento_CatalogRule
+Home,Pradžia,module,Magento_CatalogSearch
+"Go to Home Page","Grįžti į pradinį puslapį",module,Magento_CatalogSearch
+"Catalog Advanced Search","Katalogo Išplėstinė Paieška",module,Magento_CatalogSearch
+Yes,Taip,module,Magento_CatalogSearch
+"Advanced Search Results","Išplėstinės paieškos rezultatai",module,Magento_CatalogSearch
+"Search results for: '%1'","Paieškos rezultatai: ""%1""",module,Magento_CatalogSearch
+"Search Settings","Paieškos nustatymai",module,Magento_CatalogSearch
+Search,Ieškoti,module,Magento_CatalogSearch
+"Advanced Search","Išplėstinė paieška",module,Magento_CatalogSearch
+name,vardas,module,Magento_CatalogSearch
+"Your search returned no results.","Pagal jūsų ieškotą frazę prekių nebuvo rasta.",module,Magento_CatalogSearch
+SKU,"Prekės kodas",module,Magento_CatalogWidget
+"Add to Cart","Į krepšelį",module,Magento_CatalogWidget
+"In stock",Sandėlyje,module,Magento_CatalogWidget
+"Out of stock","Nėra sandėlyje",module,Magento_CatalogWidget
+"Add to Wish List","Į pageidavimų sąrašą",module,Magento_CatalogWidget
+"Add to Compare","Pridėti palyginimui",module,Magento_CatalogWidget
+Delete,Ištrinti,module,Magento_Catalog
+Save,Išsaugoti,module,Magento_Catalog
+Name,Vardas,module,Magento_Catalog
+SKU,"Prekės kodas",module,Magento_Catalog
+Price,Kaina,module,Magento_Catalog
+Position,Rikiavimas,module,Magento_Catalog
+Day,Diena,module,Magento_Catalog
+Month,Mėnuo,module,Magento_Catalog
+Year,Metai,module,Magento_Catalog
+"Add Product","Pridėti produktą",module,Magento_Catalog
+label,etiketė,module,Magento_Catalog
+Cancel,Atšaukti,module,Magento_Catalog
+"Save and Continue Edit","Išsaugoti ir tęsti redagavimą",module,Magento_Catalog
+"Visible in Advanced Search","Matoma išplėstinėje paieškoje",module,Magento_Catalog
+No,Ne,module,Magento_Catalog
+Yes,Taip,module,Magento_Catalog
+Back,Grįžti,module,Magento_Catalog
+"First Name",Vardas,module,Magento_Catalog
+"Last Name",Pavardė,module,Magento_Catalog
+Edit,Redaguoti,module,Magento_Catalog
+Home,Pradžia,module,Magento_Catalog
+"Go to Home Page","Grįžti į pradinį puslapį",module,Magento_Catalog
+N/A,N/D,module,Magento_Catalog
+"You added product %1 to the comparison list.","Produktą %1 įtraukėte į palyginimo sąrašą.",module,Magento_Catalog
+"You removed product %1 from the comparison list.","Jūs pašalinote produktą %1 iš palyginimo sąrašo.",module,Magento_Catalog
+"%1 items","%1 įrašai(-ų)",module,Magento_Catalog
+"Are you sure you want to remove this item from your Compare Products list?","Ar tikrai norite pašalinti šį produktą iš palyginimo sąrašo?",module,Magento_Catalog
+Discount,Nuolaida,module,Magento_Catalog
+Search,Ieškoti,module,Magento_Catalog
+message,žinutė,module,Magento_Catalog
+Actions,Veiksmai,module,Magento_Catalog
+name,vardas,module,Magento_Catalog
+Qty,Kiekis,module,Magento_Catalog
+"In Stock",Sandėlyje,module,Magento_Catalog
+"Out of Stock","Nėra sandėlyje",module,Magento_Catalog
+Action,Veiksmas,module,Magento_Catalog
+"Compare Products","Prekių palyginimas",module,Magento_Catalog
+"Print This Page","Spausdinti šį puslapį",module,Magento_Catalog
+"Remove Product","Pašalinti produktą",module,Magento_Catalog
+"Add to Cart","Į krepšelį",module,Magento_Catalog
+"In stock",Sandėlyje,module,Magento_Catalog
+"Out of stock","Nėra sandėlyje",module,Magento_Catalog
+"Add to Wish List","Į pageidavimų sąrašą",module,Magento_Catalog
+"You have no items to compare.","Jūs nepasirinkote prekių palyginimui.",module,Magento_Catalog
+Compare,Palyginti,module,Magento_Catalog
+Prev,Atgal,module,Magento_Catalog
+Next,Toliau,module,Magento_Catalog
+"We can't find products matching the selection.","Nėra jokių prekių, atitinkančių pasirinkimą.",module,Magento_Catalog
+"Add to Compare","Pridėti palyginimui",module,Magento_Catalog
+"Items %1-%2 of %3","Prekių %1-%2 iš %3",module,Magento_Catalog
+"%1 Item","%1 įrašas",module,Magento_Catalog
+"%1 Items","%1 Įrašai(-ų)",module,Magento_Catalog
+Show,Rodyti,module,Magento_Catalog
+"per page","per puslapį",module,Magento_Catalog
+"Sort By","Rūšiuoti pagal",module,Magento_Catalog
+"More Information","Daugiau informacijos",module,Magento_Catalog
+"* Required Fields","* Privalomi laukai",module,Magento_Catalog
+Availability,Prieinamumas,module,Magento_Catalog
+"Terms and Conditions","Taisyklės ir Sąlygos",module,Magento_CheckoutAgreements
+Status,Būsena,module,Magento_CheckoutAgreements
+Content,Turinys,module,Magento_CheckoutAgreements
+"Checkout Conditions","Atsiskaitymo sąlygos",module,Magento_CheckoutAgreements
+"Checkout Terms and Conditions","Atsiskaitymo taisyklės ir sąlygos",module,Magento_CheckoutAgreements
+"Shopping Cart","Prekių krepšelis",module,Magento_Checkout
+City,Miestas,module,Magento_Checkout
+Country,Šalis,module,Magento_Checkout
+State/Province,Rajonas/apskritis,module,Magento_Checkout
+"Zip/Postal Code","Pašto kodas",module,Magento_Checkout
+"My Cart (1 item)","Mano krepšelis (1 prekė)",module,Magento_Checkout
+"My Cart (%1 items)","Mano krepšelis (%1 prekės)",module,Magento_Checkout
+"My Cart","Mano krepšelis",module,Magento_Checkout
+"For delivery questions.","Pristatymo klausimais.",module,Magento_Checkout
+"Your session has expired","Jūsų sesijos laikas baigėsi",module,Magento_Checkout
+"A letter with further instructions will be sent to your email.","Laiškas su tolesnėmis instrukcijomis bus išsiųstas į jūsų elektroninio pašto adresą.",module,Magento_Checkout
+"You added %1 to your shopping cart.","%1 įkelta į krepšelį.",module,Magento_Checkout
+"Out of stock","Nėra sandėlyje",module,Magento_Checkout
+"You used coupon code ""%1"".","Panaudotas kupono kodas ""%1"".",module,Magento_Checkout
+"The coupon code ""%1"" is not valid.","Kupono kodas ""%1"" negalioja.",module,Magento_Checkout
+"You canceled the coupon code.","Jūs atšaukėte kupono kodą.",module,Magento_Checkout
+"We cannot apply the coupon code.","Mes negalime pritaikyti kupono kodą.",module,Magento_Checkout
+Checkout,Pirkti,module,Magento_Checkout
+"Page not found.","Puslapis nerastas.",module,Magento_Checkout
+"Payment Method","Mokėjimo būdas",module,Magento_Checkout
+" item"," prekė",module,Magento_Checkout
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Turėsite aktyvuoti savo paskyrą. Jūsų el. paštu išsiuntėme laišką su aktyvavimo nuoroda. Jeigu jūs negavote laiško <a href=""%1""> paspaudę čia</a> išsiūsime naują.",module,Magento_Checkout
+"Load customer quote error","Įkelto kliento klaida",module,Magento_Checkout
+Error!,Klaida!,module,Magento_Checkout
+"DB exception","Duomenų bazės klaida",module,Magento_Checkout
+Message,Žinutė,module,Magento_Checkout
+"Print receipt","Spausdinti kvitą",module,Magento_Checkout
+"Apply Discount Code","Įvesk nuolaidos kodą",module,Magento_Checkout
+"Enter discount code","Nuolaidos kodas",module,Magento_Checkout
+"Apply Discount","Pritaikyti nuolaidą",module,Magento_Checkout
+"Cancel Coupon","Atšaukti kuponą",module,Magento_Checkout
+Item,Prekė,module,Magento_Checkout
+Price,Kaina,module,Magento_Checkout
+Qty,Kiekis,module,Magento_Checkout
+Subtotal,"Tarpinė suma",module,Magento_Checkout
+"Continue Shopping","Tęsti apsipirkimą",module,Magento_Checkout
+"Clear Shopping Cart","Išvalyti krepšelį",module,Magento_Checkout
+"Update Shopping Cart","Atnaujinti krepšelį",module,Magento_Checkout
+"Update Cart","Atnaujinti krepšelį",module,Magento_Checkout
+"What's this?","Kas tai?",module,Magento_Checkout
+"Edit item parameters","Redaguoti prekės parametrus",module,Magento_Checkout
+Edit,Redaguoti,module,Magento_Checkout
+"Remove item",Ištrinti,module,Magento_Checkout
+"You have no items in your shopping cart.","Jūs neturite prekių savo krepšelyje.",module,Magento_Checkout
+"Click <a href=""%1"">here</a> to continue shopping.","Spauskite <a href=""%1"">čia</a> norėdami tęsti apsipirkimą.",module,Magento_Checkout
+"Estimate Shipping and Tax","Įvertinti siuntimo išlaidas ir mokesčius",module,Magento_Checkout
+"Excl. Tax","Be PVM",module,Magento_Checkout
+"Order #","Užsakymo nr.",module,Magento_Checkout
+"Proceed to Checkout","Pradėti pirkimą",module,Magento_Checkout
+"Product Name","Prekės pavadinimas",module,Magento_Checkout
+"Incl. Tax","Su PVM",module,Magento_Checkout
+"Your order number is: %1.","Jūsų užsakymo nr.: %1.",module,Magento_Checkout
+"Your order # is: <span>%1</span>.","Jūsų užsakymo nr.: <span>%1</span>.",module,Magento_Checkout
+"We'll email you an order confirmation with details and tracking info.","El. paštu gausite užsakymo patvirtinimą.",module,Magento_Checkout
+Back,Grįžti,module,Magento_Cms
+"Save and Continue Edit","Išsaugoti ir tęsti redagavimą",module,Magento_Cms
+Status,Būsena,module,Magento_Cms
+Action,Veiksmas,module,Magento_Cms
+Preview,Peržiūra,module,Magento_Cms
+Home,Pradžia,module,Magento_Cms
+"Go to Home Page","Grįžti į pradinį puslapį",module,Magento_Cms
+"Privacy and Cookie Policy","Privatumo ir slapukų politika",module,Magento_Cms
+Edit,Redaguoti,module,Magento_Cms
+Delete,Ištrinti,module,Magento_Cms
+"Delete %1","Ištrinti %1",module,Magento_Cms
+"Page not found.","Puslapis nerastas.",module,Magento_Config
+Optional,Neprivaloma,module,Magento_Config
+Yes,Taip,module,Magento_Config
+Delete,Ištrinti,module,Magento_Config
+Save,Išsaugoti,module,Magento_ConfigurableProduct
+Summary,Santrauka,module,Magento_ConfigurableProduct
+"Choose an Option...","Pasirinkti parinktį...",module,Magento_ConfigurableProduct
+SKU,"Prekės kodas",module,Magento_ConfigurableProduct
+Price,Kaina,module,Magento_ConfigurableProduct
+Actions,Veiksmai,module,Magento_ConfigurableProduct
+"Remove Product","Pašalinti produktą",module,Magento_ConfigurableProduct
+Cancel,Atšaukti,module,Magento_ConfigurableProduct
+"Page not found.","Puslapis nerastas.",module,Magento_Contact
+"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Dėkojame už užklausą. Mes jums atsakyme kaip galima greičiau.",module,Magento_Contact
+"Name is missing","Trūksta vardo",module,Magento_Contact
+"* Required Fields","* Privalomi laukai",module,Magento_Contact
+"Write Us","Parašykite mums",module,Magento_Contact
+Name,Vardas,module,Magento_Contact
+Email,"El. paštas",module,Magento_Contact
+"Phone Number","Telefono numeris",module,Magento_Contact
+"What’s on your mind?","Jūsų klausimas",module,Magento_Contact
+Submit,Pateikti,module,Magento_Contact
+Daily,Kasdien,module,Magento_Cron
+Weekly,"Kas savaitę",module,Magento_Cron
+Monthly,"Kas mėnesį",module,Magento_Cron
+"Some error","Kai kurios klaidos",module,Magento_Cron
+"Sign Out",Atsijungti,module,Magento_Customer
+"Sign In",Prisijungti,module,Magento_Customer
+"You are subscribed to our newsletter.","Jūs esate užsiprenumeravę mūsų naujienlaiškį.",module,Magento_Customer
+"You aren't subscribed to our newsletter.","Jūs nesate prisiregistravęs prie mūsų naujienlaiškio.",module,Magento_Customer
+"You have not set a default shipping address.","Nenustatė pagrindinio pristatymo adreso.",module,Magento_Customer
+"You have not set a default billing address.","Nenustatė pagrindinio atsiskaitymo adreso.",module,Magento_Customer
+"Address Book","Mano Adresai",module,Magento_Customer
+"Edit Address","Redaguoti adresą",module,Magento_Customer
+"Add New Address","Pridėti naują adresą",module,Magento_Customer
+"Save and Continue Edit","Išsaugoti ir tęsti redagavimą",module,Magento_Customer
+Back,Grįžti,module,Magento_Customer
+SKU,"Prekės kodas",module,Magento_Customer
+Price,Kaina,module,Magento_Customer
+Total,"Iš viso",module,Magento_Customer
+Action,Veiksmas,module,Magento_Customer
+Delete,Ištrinti,module,Magento_Customer
+Newsletter,Naujienlaiškis,module,Magento_Customer
+Cancel,Atšaukti,module,Magento_Customer
+"Order Total","Užsakymo suma",module,Magento_Customer
+Qty,Kiekis,module,Magento_Customer
+Yes,Taip,module,Magento_Customer
+"Customer Login","Vartotojo prisijungimas",module,Magento_Customer
+"Create New Customer Account","Kurti naują kliento paskyrą",module,Magento_Customer
+"Thank you for registering with %1.","Ačiū, kad užsiregistravote %1.",module,Magento_Customer
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Turėsite aktyvuoti savo paskyrą. Jūsų el. paštu išsiuntėme laišką su aktyvavimo nuoroda. Jeigu jūs negavote laiško <a href=""%1""> paspaudę čia</a> išsiūsime naują.",module,Magento_Customer
+"Account Information","Mano Informacija",module,Magento_Customer
+"You saved the account information.","Jūs išsaugojote paskyros informaciją.",module,Magento_Customer
+"You did not sign in correctly or your account is temporarily disabled.","Prašome patikslinti prisijungimo duomenis, nepavykus prisijungti susisiekite su administratoriumi.",module,Magento_Customer
+"Please enter your email.","Įveskite savo el. pašto adresą.",module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Jei sąskaita bus susijusiu %1, gausite el. laišką su nuoroda iš naujo nustatyti slaptažodį.",module,Magento_Customer
+"My Account","Mano paskyra",module,Magento_Customer
+"You saved the address.","Adresas išsaugotas.",module,Magento_Customer
+"Page not found.","Puslapis nerastas.",module,Magento_Customer
+"Login successful.","Sėkmingai prisijungėte.",module,Magento_Customer
+"Invalid login or password.","Neteisingas el. pašto adresas arba slaptažodis.",module,Magento_Customer
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Slaptažodyje minimalus skirtingų tipų simbolių turi būti %1. Tipai simbolių: mažosios, didžiosio raidės, skaitmenys, specialūs simboliai.",module,Magento_Customer
+"Password cannot be the same as email address.","Slaptažodis negali būti toks pat kaip elektroninio pašto adresą.",module,Magento_Customer
+"Billing Address","Mokėtojo Adresas",module,Magento_Customer
+"Shipping Address","Pristatymo Adresas",module,Magento_Customer
+"VAT Number is valid.","PVM mokėtojo kodas yra teisingas.",module,Magento_Customer
+"Please enter a valid VAT number.","Prašome įvesti tinkama PVM mokėtojo kodą.",module,Magento_Customer
+"Thank you for registering with","Ačiū, kad užsiregistravote",module,Magento_Customer
+"Please enter new password.","Įveskite naują slaptažodį.",module,Magento_Customer
+message,žinutė,module,Magento_Customer
+Edit,Redaguoti,module,Magento_Customer
+"Personal Information","Asmeninė informacija",module,Magento_Customer
+"Default Billing Address","Numatytasis atsiskaitymo adresas",module,Magento_Customer
+"Manage Addresses","Redaguoti adresus",module,Magento_Customer
+"Default Shipping Address","Pristatymo adresas",module,Magento_Customer
+"Contact Information","Kontaktinė informacija",module,Magento_Customer
+"Change Password","Keisti slaptažodį",module,Magento_Customer
+Newsletters,Naujienlaiškis,module,Magento_Customer
+"You are subscribed to ""General Subscription"".","Jūs užsiprenumeravote ""Bendra Prenumerata"".",module,Magento_Customer
+"Default Addresses",Adresai,module,Magento_Customer
+"Change Billing Address","Keisti atsiskaitymo adresą",module,Magento_Customer
+"You have no default billing address in your address book.","Jūs neturi jokių priskirtų adresų.",module,Magento_Customer
+"Change Shipping Address","Keisti pristatymo adresą",module,Magento_Customer
+"Additional Address Entries","Papildomi Adresai",module,Magento_Customer
+"Delete Address","Ištrinti adresą",module,Magento_Customer
+"You have no other address entries in your address book.","Jūsų adresų knygoje nėra kitų adresų įrašų.",module,Magento_Customer
+"* Required Fields","* Privalomi laukai",module,Magento_Customer
+Address,Adresas,module,Magento_Customer
+"Street Address",Adresas,module,Magento_Customer
+"Street Address %1","Adresas %1",module,Magento_Customer
+"VAT Number","PVM mokėtojo kodas",module,Magento_Customer
+City,Miestas,module,Magento_Customer
+State/Province,Rajonas/apskritis,module,Magento_Customer
+"Please select a region, state or province.","Prašome pasirinkti regioną, valstiją arba provinciją.",module,Magento_Customer
+"Zip/Postal Code","Pašto kodas",module,Magento_Customer
+Country,Šalis,module,Magento_Customer
+"It's a default billing address.","Tai yra pagrindinis atsiskaitymo adresas.",module,Magento_Customer
+"Use as my default billing address","Naudoti kaip pagrindinį atsiskaitymo adresą",module,Magento_Customer
+"It's a default shipping address.","Tai yra pagrindinis pristatymo adresas.",module,Magento_Customer
+"Use as my default shipping address","Naudoti kaip pagrindinį pristatymo adresą",module,Magento_Customer
+"Save Address","Išsaugoti adresą",module,Magento_Customer
+"Go back",Atgal,module,Magento_Customer
+"Change Email","Keisti el.paštą",module,Magento_Customer
+"Change Email and Password","Keisti el. pašto adresą ir slaptažodį",module,Magento_Customer
+"Current Password","Dabartinis slaptažodis",module,Magento_Customer
+"New Password","Naujas slaptažodis",module,Magento_Customer
+"Password Strength","Slaptažodžio sudėtingumas",module,Magento_Customer
+"No Password","Jokio slaptažodžio",module,Magento_Customer
+"Confirm New Password","Patvirtinti naują slaptažodį",module,Magento_Customer
+Save,Išsaugoti,module,Magento_Customer
+"Please enter your email address below to receive a password reset link.","Įveskite savo el. paštą, norėdami gauti slaptažodžio atstatymo nuorodą.",module,Magento_Customer
+"Reset My Password","Atstatyti slaptažodį",module,Magento_Customer
+"Registered Customers","Registruotiems klientams",module,Magento_Customer
+"If you have an account, sign in with your email address.","Jeigu jau turite susikurę paskyrą, prisijunkite naudodami savo el. pašto adresą.",module,Magento_Customer
+Password,Slaptažodis,module,Magento_Customer
+"Forgot Your Password?","Pamiršote slaptažodį?",module,Magento_Customer
+"Subscription option",Prenumeratos,module,Magento_Customer
+"General Subscription","Bendra Prenumerata",module,Magento_Customer
+"Sign Up for Newsletter","Užsisakykite naujienlaiškį",module,Magento_Customer
+"Sign-in Information","Prisijungimo informacija",module,Magento_Customer
+"Confirm Password","Patvirtinkite slaptažodį",module,Magento_Customer
+"Create an Account","Sukurti paskyrą",module,Magento_Customer
+"Set a New Password","Nustatyti naują slaptažodį",module,Magento_Customer
+"You have signed out and will go to our homepage in 5 seconds.","Išsiregistravote. Už 5 sekundžių būsite nukreipti į pradinį puslapį.",module,Magento_Customer
+"New Customers","Naujiems klientams",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Paskyros sukūrimas turi daug privalumų: greitesnis atsiskaitymas, galimybe įvesti daugiau nei vieną pristatymo adresą, sekti užsakymus ir dar daugiau.",module,Magento_Customer
+Company,Įmonė,module,Magento_Customer
+Fax,Faksas,module,Magento_Customer
+Name,Vardas,module,Magento_Customer
+"Tax/VAT number","PVM mokėtojo kodas",module,Magento_Customer
+"Phone Number","Telefono numeris",module,Magento_Customer
+State/Province,Rajonas/apskritis,module,Magento_Directory
+"Please select a region, state or province.","Prašome pasirinkti regioną, valstiją arba provinciją.",module,Magento_Directory
+Continue,Tęsti,module,Magento_Directory
+"My Downloadable Products","Mano Download'ai",module,Magento_Downloadable
+Yes,Taip,module,Magento_Downloadable
+Pending,Laukiama,module,Magento_Downloadable
+Price,Kaina,module,Magento_Downloadable
+Delete,Ištrinti,module,Magento_Downloadable
+SKU,"Prekės kodas",module,Magento_Downloadable
+Availability,Prieinamumas,module,Magento_Downloadable
+"In stock",Sandėlyje,module,Magento_Downloadable
+"Out of stock","Nėra sandėlyje",module,Magento_Downloadable
+"Order #","Užsakymo nr.",module,Magento_Downloadable
+Date,Data,module,Magento_Downloadable
+"View Order","Peržiūrėti užsakymą",module,Magento_Downloadable
+"You have not purchased any downloadable products yet.","Jūs nepirkote jokių download'ų dar.",module,Magento_Downloadable
+Back,Grįžti,module,Magento_Downloadable
+Message:,Žinutė:,module,Magento_Downloadable
+"Product Name","Prekės pavadinimas",module,Magento_Downloadable
+Qty,Kiekis,module,Magento_Downloadable
+Subtotal,"Tarpinė suma",module,Magento_Downloadable
+"Qty Invoiced","Kiekis išrašytoje SF",module,Magento_Downloadable
+Ordered,Užsakyta,module,Magento_Downloadable
+Canceled,Atšauktas,module,Magento_Downloadable
+Yes,Taip,module,Magento_Eav
+Date,Data,module,Magento_Eav
+Yes/No,Taip/Ne,module,Magento_Eav
+Back,Grįžti,module,Magento_Email
+Preview,Peržiūra,module,Magento_Email
+Country,Šalis,module,Magento_Email
+"Zip/Postal Code","Pašto kodas",module,Magento_Email
+City,Miestas,module,Magento_Email
+"VAT Number","PVM mokėtojo kodas",module,Magento_Email
+Yes,Taip,module,Magento_EncryptionKey
+Message,Žinutė,module,Magento_GiftMessage
+Cancel,Atšaukti,module,Magento_GiftMessage
+OK,Gerai,module,Magento_GiftMessage
+Cancel,Atšaukti,module,Magento_GroupedProduct
+Name,Vardas,module,Magento_GroupedProduct
+Status,Būsena,module,Magento_GroupedProduct
+SKU,"Prekės kodas",module,Magento_GroupedProduct
+Price,Kaina,module,Magento_GroupedProduct
+Actions,Veiksmai,module,Magento_GroupedProduct
+Availability:,Prieinamumas:,module,Magento_GroupedProduct
+"Out of stock","Nėra sandėlyje",module,Magento_GroupedProduct
+"Product Name","Prekės pavadinimas",module,Magento_GroupedProduct
+Qty,Kiekis,module,Magento_GroupedProduct
+Availability,Prieinamumas,module,Magento_GroupedProduct
+"In stock",Sandėlyje,module,Magento_GroupedProduct
+Filter,Filtruoti,module,Magento_ImportExport
+Delete,Ištrinti,module,Magento_ImportExport
+Continue,Tęsti,module,Magento_ImportExport
+Processing,Vykdoma,module,Magento_Indexer
+Save,Išsaugoti,module,Magento_Integration
+Name,Vardas,module,Magento_Integration
+Email,"El. paštas",module,Magento_Integration
+"Your Password","Jūsų slaptažodis",module,Magento_Integration
+Edit,Redaguoti,module,Magento_Integration
+"You did not sign in correctly or your account is temporarily disabled.","Prašome patikslinti prisijungimo duomenis, nepavykus prisijungti susisiekite su administratoriumi.",module,Magento_Integration
+No,Ne,module,Magento_LayeredNavigation
+Position,Rikiavimas,module,Magento_LayeredNavigation
+item,prekė,module,Magento_LayeredNavigation
+Previous,Ankstesnis,module,Magento_LayeredNavigation
+Partners,Partneriai,module,Magento_Marketplace
+"Magento Marketplace","Magento prekyvietė",module,Magento_Marketplace
+"Platinum Partners","Platininiai partneriai",module,Magento_Marketplace
+"Featured Platinum Partners","Rekomenduojami platininiai partneriai",module,Magento_Marketplace
+"Partner search","Partnerių paieška",module,Magento_Marketplace
+"More Partners","Daugiau partnerių",module,Magento_Marketplace
+"Visit Magento Marketplaces","Apsilankykite Magento prekyvietę",module,Magento_Marketplace
+"Read More","Skaityti daugiau",module,Magento_Marketplace
+"Partner Page","Partnerių puslapis",module,Magento_Marketplace
+"No partners were found","Nerasta jokių partnerių",module,Magento_Marketplace
+"What's this?","Kas tai?",module,Magento_Msrp
+Price,Kaina,module,Magento_Msrp
+"Add to Cart","Į krepšelį",module,Magento_Msrp
+"Change Billing Address","Keisti atsiskaitymo adresą",module,Magento_Multishipping
+Total,"Iš viso",module,Magento_Multishipping
+"Shipping Methods","Pristatymo būdai",module,Magento_Multishipping
+"Edit Address","Redaguoti adresą",module,Magento_Multishipping
+"Please specify a payment method.","Pasirinkite apmokėjimo būdą.",module,Magento_Multishipping
+"Place Order",Užsakyti,module,Magento_Multishipping
+"Add New Address","Pridėti naują adresą",module,Magento_Multishipping
+Qty,Kiekis,module,Magento_Multishipping
+Actions,Veiksmai,module,Magento_Multishipping
+"Remove Item",Ištrinti,module,Magento_Multishipping
+"Remove item",Ištrinti,module,Magento_Multishipping
+"Enter a New Address","Įveskite naują adresą",module,Magento_Multishipping
+"Billing Address","Atsiskaitymo Adresas",module,Magento_Multishipping
+"Payment Method","Mokėjimo būdas",module,Magento_Multishipping
+"Edit Items","Redaguoti elementus",module,Magento_Multishipping
+"Product Name","Prekės pavadinimas",module,Magento_Multishipping
+"Shipping To",Pristatymas,module,Magento_Multishipping
+"Shipping Method","Pristatymo būdas",module,Magento_Multishipping
+"Order Review","Užsakymo peržiūra",module,Magento_Multishipping
+Item,Prekė,module,Magento_Multishipping
+Edit,Redaguoti,module,Magento_Multishipping
+Price,Kaina,module,Magento_Multishipping
+Subtotal,"Tarpinė suma",module,Magento_Multishipping
+"Grand Total:","Iš Viso:",module,Magento_Multishipping
+"Thank you for your purchase!","Dėkojame už jūsų užsakymą!",module,Magento_Multishipping
+"Your order number is: ","Jūsų užsakymo nr.:",module,Magento_Multishipping
+"Continue Shopping","Tęsti apsipirkimą",module,Magento_Multishipping
+Back,Grįžti,module,Magento_Newsletter
+Message,Žinutė,module,Magento_Newsletter
+Cancel,Atšaukti,module,Magento_Newsletter
+Preview,Peržiūra,module,Magento_Newsletter
+Added,Pridėta,module,Magento_Newsletter
+Action,Veiksmas,module,Magento_Newsletter
+Newsletter,Naujienlaiškis,module,Magento_Newsletter
+"Newsletter Subscription","Naujienlaiškio prenumerata",module,Magento_Newsletter
+"We saved the subscription.","Išsaugota prenumerata.",module,Magento_Newsletter
+"We removed the subscription.","Pašalinome prenumeratą.",module,Magento_Newsletter
+"Please enter a valid email address.","Prašome įvesti galiojantį el. pašto adresą.",module,Magento_Newsletter
+"Thank you for your subscription.","Sėkmingai užprenumeravote naujienlaiškį.",module,Magento_Newsletter
+Cancelled,Atšauktas,module,Magento_Newsletter
+"Newsletter Message Preview","Naujienlaiškio pranešimo peržiūra",module,Magento_Newsletter
+"Sign Up for Our Newsletter:","Užsisakykite naujienlaiškį:",module,Magento_Newsletter
+"Enter your email address","Įveskite savo el.pašto adresą",module,Magento_Newsletter
+Subscribe,Prenumeruoti,module,Magento_Newsletter
+Country,Šalis,module,Magento_OfflineShipping
+"Zip/Postal Code","Pašto kodas",module,Magento_OfflineShipping
+N/A,N/D,module,Magento_Payment
+"Credit Card Type","Kreditinės kortelės tipas",module,Magento_Payment
+"Credit Card Number","Kredito kortelės numeris",module,Magento_Payment
+Discount,Nuolaida,module,Magento_Payment
+Shipping,Pristatymas,module,Magento_Payment
+Yes,Taip,module,Magento_Payment
+"Expiration Date","Galiojimo data",module,Magento_Payment
+"Card Verification Number","Kortelės patvirtinimo numeris",module,Magento_Payment
+"Please Select","Prašome pasirinkti",module,Magento_Payment
+"--Please Select--","--Prašome pasirinkti--",module,Magento_Payment
+"Credit Card Information","Kreditinės kortelės informacija",module,Magento_Payment
+Email,"El. paštas",module,Magento_Paypal
+"First Name",Vardas,module,Magento_Paypal
+"Last Name",Pavardė,module,Magento_Paypal
+Status,Būsena,module,Magento_Paypal
+N/A,N/D,module,Magento_Paypal
+Back,Grįžti,module,Magento_Paypal
+Cancel,Atšaukti,module,Magento_Paypal
+"Order Total","Užsakymo suma",module,Magento_Paypal
+Help,Pagalba,module,Magento_Paypal
+Canceled,Atšauktas,module,Magento_Paypal
+Yes,Taip,module,Magento_Paypal
+"Order ID","Užsakymo nr.",module,Magento_Paypal
+"Credit Card Number","Kortelės numeris",module,Magento_Paypal
+"Expiration Date","Galiojimo data",module,Magento_Paypal
+"Card Verification Number","Kortelės patvirtinimo numeris",module,Magento_Paypal
+"Payment Method:","Mokėjimo būdas:",module,Magento_Paypal
+"Order #","Užsakymo nr.",module,Magento_Paypal
+Date,Data,module,Magento_Paypal
+"Ship To",Gavėjas,module,Magento_Paypal
+"View Order","Peržiūrėti užsakymą",module,Magento_Paypal
+"Payment Method","Mokėjimo būdas",module,Magento_Paypal
+"Shipping Method","Pristatymo būdas",module,Magento_Paypal
+"Shipping Address","Pristatymo Adresas",module,Magento_Paypal
+Edit,Redaguoti,module,Magento_Paypal
+"Place Order",Užsakyti,module,Magento_Paypal
+Item,Prekė,module,Magento_Paypal
+Price,Kaina,module,Magento_Paypal
+Qty,Kiekis,module,Magento_Paypal
+Subtotal,"Tarpinė suma",module,Magento_Paypal
+Continue,Tęsti,module,Magento_Paypal
+"Remember Me","Prisiminti mane",module,Magento_Persistent
+"What's this?","Kas tai?",module,Magento_Persistent
+Price:,Kaina:,module,Magento_ProductAlert
+Description,Aprašymas,module,Magento_ProductVideo
+"Disallowed file type.","Neleistinas failo tipas.",module,Magento_ProductVideo
+"Unable to save address. Please check input data.","Nepavyko išsaugoti adreso. Patikrinkite įvestus duomenis.",module,Magento_Quote
+"Coupon code is not valid","Kupono kodas negalioja",module,Magento_Quote
+"This shipping method is not available. To use this shipping method, please contact us.","Šis pristatymo būdas neprieinamas. Jei norite pasinaudoti šiuo pristatymo būdą, prašome susisiekti su mumis.",module,Magento_Quote
+"Grand Total","Iš Viso",module,Magento_Quote
+"Shipping & Handling","Pristatymas ir Paruošimas",module,Magento_Quote
+Shipping,Pristatymas,module,Magento_Quote
+Subtotal,"Tarpinė suma",module,Magento_Quote
+"Please specify a shipping method.","Pasirinkite siuntimo būdą.",module,Magento_Quote
+Discount,Nuolaida,module,Magento_Quote
+Tax,Mokesčiai,module,Magento_Quote
+Filter,Filtruoti,module,Magento_Reports
+Yes,Taip,module,Magento_Reports
+SKU,"Prekės kodas",module,Magento_Reports
+Total,"Iš viso",module,Magento_Reports
+Price,Kaina,module,Magento_Reports
+Detail,Išsamiau,module,Magento_Reports
+Subtotal,"Tarpinė suma",module,Magento_Reports
+Discount,Nuolaida,module,Magento_Reports
+Tax,Mokesčiai,module,Magento_Reports
+Shipping,Pristatymas,module,Magento_Reports
+Canceled,Atšauktas,module,Magento_Reports
+"First Name",Vardas,module,Magento_Reports
+"Last Name",Pavardė,module,Magento_Reports
+"Items in Cart","Prekės krepšelyje",module,Magento_Reports
+Name,Vardas,module,Magento_Reports
+Reviews,Atsiliepimai,module,Magento_Reports
+Details,Išsamiau,module,Magento_Reports
+"Shopping Cart","Prekių krepšelis",module,Magento_Reports
+"Add to Cart","Į krepšelį",module,Magento_Reports
+"In stock",Sandėlyje,module,Magento_Reports
+"Out of stock","Nėra sandėlyje",module,Magento_Reports
+"Add to Wish List","Į pageidavimų sąrašą",module,Magento_Reports
+"Add to Compare","Pridėti palyginimui",module,Magento_Reports
+Status,Būsena,module,Magento_Review
+Nickname,Slapyvardis,module,Magento_Review
+Review,Atsiliepimas,module,Magento_Review
+Previous,Ankstesnis,module,Magento_Review
+Next,Toliau,module,Magento_Review
+SKU,"Prekės kodas",module,Magento_Review
+Action,Veiksmas,module,Magento_Review
+Edit,Redaguoti,module,Magento_Review
+Delete,Ištrinti,module,Magento_Review
+Name,Vardas,module,Magento_Review
+Price,Kaina,module,Magento_Review
+"Reviews %1","Atsiliepimai %1",module,Magento_Review
+Reviews,Atsiliepimai,module,Magento_Review
+"My Product Reviews","Mano produktų apžvalgos",module,Magento_Review
+Pending,Laukiama,module,Magento_Review
+"Please enter a nickname.","Prašome įvesti slapyvardį.",module,Magento_Review
+"Product Name","Prekės pavadinimas",module,Magento_Review
+Actions,Veiksmai,module,Magento_Review
+"You have submitted no reviews.","Jūs nepateikėte atsiliepimų.",module,Magento_Review
+Back,Grįžti,module,Magento_Review
+"View All","Peržiūrėti visus",module,Magento_Review
+"Be the first to review this product","Būkite pirmas palikęs atsiliepimą",module,Magento_Review
+"Write Your Own Review","Parašykite savo atsiliepimą",module,Magento_Review
+"* Required Fields","* Privalomi laukai",module,Magento_Review
+"You're reviewing:","Jūsų Atsiliepimas apie:",module,Magento_Review
+Summary,Santrauka,module,Magento_Review
+"Submit Review","Pridėti Atsiliepimą",module,Magento_Review
+"Page not found.","Puslapis nerastas.",module,Magento_Rss
+Apply,Taikyti,module,Magento_Rule
+Delete,Ištrinti,module,Magento_SalesRule
+"Save and Continue Edit","Išsaugoti ir tęsti redagavimą",module,Magento_SalesRule
+Save,Išsaugoti,module,Magento_SalesRule
+Actions,Veiksmai,module,Magento_SalesRule
+Yes,Taip,module,Magento_SalesRule
+"Discount (%1)","Nuolaida (%1)",module,Magento_SalesRule
+Discount,Nuolaida,module,Magento_SalesRule
+Subtotal,"Tarpinė suma",module,Magento_SalesRule
+"Shipping Method","Pristatymo būdas",module,Magento_SalesRule
+"total quantity","bendras kiekis",module,Magento_SalesRule
+"total amount","bendra suma",module,Magento_SalesRule
+Invoices,Sąskaitos,module,Magento_Sales
+Shipping,Pristatymas,module,Magento_Sales
+Cancel,Atšaukti,module,Magento_Sales
+"Billing Address","Atsiskaitymo Adresas",module,Magento_Sales
+"Payment Method","Mokėjimo būdas",module,Magento_Sales
+"Account Information","Mano Informacija",module,Magento_Sales
+Message,Žinutė,module,Magento_Sales
+"Items Ordered","Užsakytos prekės",module,Magento_Sales
+"Newsletter Subscription","Naujienlaiškio prenumerata",module,Magento_Sales
+SKU,"Prekės kodas",module,Magento_Sales
+"Shipping Address","Pristatymo Adresas",module,Magento_Sales
+"Shipping Method","Pristatymo būdas",module,Magento_Sales
+"Shopping Cart","Prekių krepšelis",module,Magento_Sales
+"Clear Shopping Cart","Išvalyti krepšelį",module,Magento_Sales
+"Last Ordered Items","Paskutinės užsakytos prekės",module,Magento_Sales
+Reorder,"Užsakyti iš naujo",module,Magento_Sales
+"Order Information","Užsakymo informacija",module,Magento_Sales
+"Order Shipments","Užsakymo siuntimai",module,Magento_Sales
+Yes,Taip,module,Magento_Sales
+Subtotal,"Tarpinė suma",module,Magento_Sales
+"Shipping & Handling","Pristatymas ir Paruošimas",module,Magento_Sales
+"Discount (%1)","Nuolaida (%1)",module,Magento_Sales
+Discount,Nuolaida,module,Magento_Sales
+"Grand Total","Iš Viso",module,Magento_Sales
+Back,Grįžti,module,Magento_Sales
+N/A,N/D,module,Magento_Sales
+"Order # %1","Užsakymas #%1",module,Magento_Sales
+"Back to My Orders","Atgal į mano užsakymus",module,Magento_Sales
+"View Another Order","Žiūrėti kitą užsakymą",module,Magento_Sales
+"My Orders","Mano užsakymai",module,Magento_Sales
+"""%1"" coupon code is not valid.","""%1"" kupono kodas negalioja.",module,Magento_Sales
+"Orders and Returns","Užsakymai ir Grąžinimai",module,Magento_Sales
+Home,Pradžia,module,Magento_Sales
+"Go to Home Page","Grįžti į pradinį puslapį",module,Magento_Sales
+"You entered incorrect data. Please try again.","Įvedėte neteisingus duomenis. Bandykite dar kartą.",module,Magento_Sales
+"Shipping Address: ","Pristatymo Adresas: ",module,Magento_Sales
+"Billing Address: ","Atsiskaitymo Adresas: ",module,Magento_Sales
+"Please specify a shipping method.","Pasirinkite siuntimo būdą.",module,Magento_Sales
+"Please specify a payment method.","Pasirinkite apmokėjimo būdą.",module,Magento_Sales
+"Please enter the first name.","Prašome įvesti vardą.",module,Magento_Sales
+"Please enter the last name.","Įveskite pavardę.",module,Magento_Sales
+"Please enter the zip/postal code.","Įveskite pašto indeksą/kodą.",module,Magento_Sales
+Pending,Laukiama,module,Magento_Sales
+Canceled,Atšauktas,module,Magento_Sales
+Ordered,Užsakyta,module,Magento_Sales
+"Order # ","Užsakymo nr.",module,Magento_Sales
+"Order Date: ","Užsakymo data: ",module,Magento_Sales
+"Sold to:","Jūsų informacija:",module,Magento_Sales
+"Ship to:",Gavėjas:,module,Magento_Sales
+"Payment Method:","Mokėjimo būdas:",module,Magento_Sales
+"Shipping Method:","Pristatymo būdas:",module,Magento_Sales
+Qty,Kiekis,module,Magento_Sales
+Tax,Mokesčiai,module,Magento_Sales
+"Invoice # ","Sąskaita # ",module,Magento_Sales
+City,Miestas,module,Magento_Sales
+Company,Įmonė,module,Magento_Sales
+Country,Šalis,module,Magento_Sales
+"First Name",Vardas,module,Magento_Sales
+"Last Name",Pavardė,module,Magento_Sales
+State/Province,Rajonas/apskritis,module,Magento_Sales
+"Street Address",Adresas,module,Magento_Sales
+"Phone Number","Telefono numeris",module,Magento_Sales
+"Zip/Postal Code","Pašto kodas",module,Magento_Sales
+Processing,Vykdoma,module,Magento_Sales
+Apply,Pritaikyti,module,Magento_Sales
+"Order Total","Užsakymo suma",module,Magento_Sales
+"Add New Address","Pridėti naują adresą",module,Magento_Sales
+"Save in address book","Įrašyti adresų knygelėje",module,Magento_Sales
+Action,Veiksmas,module,Magento_Sales
+Subtotal:,"Tarpinė suma:",module,Magento_Sales
+Item,Prekė,module,Magento_Sales
+"Subtotal (Excl. Tax)","Tarpinė suma (be mokesčių)",module,Magento_Sales
+"Subtotal (Incl. Tax)","Iš viso (su PVM)",module,Magento_Sales
+Message:,Žinutė:,module,Magento_Sales
+"Total Tax","Iš viso mokesčių",module,Magento_Sales
+Comment,Komentaras,module,Magento_Sales
+"Order Date","Užsakymo data",module,Magento_Sales
+"Order Date (%1)","Užsakymo data (%1)",module,Magento_Sales
+"Order ID","Užsakymo nr.",module,Magento_Sales
+"Shipped By","Išsiųsta su",module,Magento_Sales
+"Tracking Number","Sekimo numeris",module,Magento_Sales
+"Billing Last Name","Mokėtojo pavardė",module,Magento_Sales
+"Find Order By","Rasti užsakymą pagal",module,Magento_Sales
+"ZIP Code","Pašto kodas",module,Magento_Sales
+"Billing ZIP Code","Mokėtojo pašto kodas",module,Magento_Sales
+Continue,Tęsti,module,Magento_Sales
+"Product Name","Prekės pavadinimas",module,Magento_Sales
+"Order #","Užsakymo nr.",module,Magento_Sales
+Date,Data,module,Magento_Sales
+"Ship To",Gavėjas,module,Magento_Sales
+Actions,Veiksmai,module,Magento_Sales
+"View Order","Peržiūrėti užsakymą",module,Magento_Sales
+"You have placed no orders.","Jūs nepateikėte užsakymų.",module,Magento_Sales
+"Print Order","Spausdinti užsakymą",module,Magento_Sales
+"Print All Invoices","Spausdinti visas sąskaitas",module,Magento_Sales
+"Invoice #","Sąskaita #",module,Magento_Sales
+"Print Invoice","Spausdinti sąskaitą",module,Magento_Sales
+"Qty Invoiced","Kiekis išrašytoje SF",module,Magento_Sales
+"About Your Order","Apie jūsų užsakymą",module,Magento_Sales
+"<span class=""label"">Order Date:</span> %1","<span class=""label"">Užsakymo data:</span> %1",module,Magento_Sales
+"Shipment #%1","Siunta #%1",module,Magento_Sales
+"Qty Shipped","Išsiųstas kiekis",module,Magento_Sales
+"Recent Orders","Naujausi užsakymai",module,Magento_Sales
+"View All","Peržiūrėti visus",module,Magento_Sales
+"Recently Ordered","Neseniai Užsakyta",module,Magento_Sales
+"Add to Cart","Į krepšelį",module,Magento_Sales
+Search,Ieškoti,module,Magento_Sales
+"Search Term","Paieškos terminas",module,Magento_Search
+"Search Terms","Paieškos terminai",module,Magento_Search
+Back,Grįžti,module,Magento_Search
+"Save and Continue Edit","Išsaugoti ir tęsti redagavimą",module,Magento_Search
+Search,Ieškoti,module,Magento_Search
+"Add New Search Term","Pridėti naują paieškos terminą",module,Magento_Search
+"Save Search","Išsaugoti paiešką",module,Magento_Search
+"Delete Search","Ištrinti paiešką",module,Magento_Search
+"New Search","Nauja paieška",module,Magento_Search
+Yes,Taip,module,Magento_Search
+"Edit Search","Redaguoti paiešką",module,Magento_Search
+Delete,Ištrinti,module,Magento_Search
+"There are no search terms available.","Nėra jokių paieškos terminų.",module,Magento_Search
+"Page not found.","Puslapis nerastas.",module,Magento_SendFriend
+"Please enter a message.","Prašome įvesti žinutę.",module,Magento_SendFriend
+Name,Vardas,module,Magento_SendFriend
+"* Required Fields","* Privalomi laukai",module,Magento_SendFriend
+Message,Žinutė,module,Magento_SendFriend
+Back,Grįžti,module,Magento_SendFriend
+Add,Pridėti,module,Magento_Shipping
+Print,Spausdinti,module,Magento_Shipping
+"Order # %1","Užsakymas #%1",module,Magento_Shipping
+"Back to My Orders","Atgal į mano užsakymus",module,Magento_Shipping
+"View Another Order","Žiūrėti kitą užsakymą",module,Magento_Shipping
+"Page not found.","Puslapis nerastas.",module,Magento_Shipping
+"This shipping method is not available. Please specify the zip code.","Šis pristatymo būdas nėra prieinamas. Prašome nurodyti pašto kodą.",module,Magento_Shipping
+Contents,Turinys,module,Magento_Shipping
+Qty,Kiekis,module,Magento_Shipping
+message,žinutė,module,Magento_Shipping
+"Product Name","Prekės pavadinimas",module,Magento_Shipping
+Delete,Ištrinti,module,Magento_Shipping
+Cancel,Atšaukti,module,Magento_Shipping
+Save,Išsaugoti,module,Magento_Shipping
+Action,Veiksmas,module,Magento_Shipping
+"Track this shipment","Sekti šią siuntą",module,Magento_Shipping
+"Order Total","Užsakymo suma",module,Magento_Shipping
+"Qty Shipped","Išsiųstas kiekis",module,Magento_Shipping
+"Print All Shipments","Spausdinti visas siuntas",module,Magento_Shipping
+"Shipment #","Siunta #",module,Magento_Shipping
+"Print Shipment","Spausdinti siuntas",module,Magento_Shipping
+"Tracking Number(s):","Sekimo numeris(-iai):",module,Magento_Shipping
+SKU,"Prekės kodas",module,Magento_Shipping
+"Tracking Number:","Sekimo numeris:",module,Magento_Shipping
+"contact us",kontaktai,module,Magento_Shipping
+N/A,N/D,module,Magento_Shipping
+Date,Data,module,Magento_Shipping
+Description,Aprašymas,module,Magento_Shipping
+Canceled,Atšauktas,module,Magento_Signifyd
+Description,Aprašymas,module,Magento_Swatches
+Delete,Ištrinti,module,Magento_Swatches
+Country,Šalis,module,Magento_TaxImportExport
+"Zip/Post Code","Pašto kodas",module,Magento_TaxImportExport
+"Zip/Post Code","Pašto kodas",module,Magento_Tax
+Country,Šalis,module,Magento_Tax
+Back,Grįžti,module,Magento_Tax
+"Save and Continue Edit","Išsaugoti ir tęsti redagavimą",module,Magento_Tax
+Name,Vardas,module,Magento_Tax
+"Grand Total (Excl.Tax)","Suma (Atsk.Mok.)",module,Magento_Tax
+"Grand Total (Incl.Tax)",Suma,module,Magento_Tax
+Tax,Mokesčiai,module,Magento_Tax
+"Maximum zip code length is 9.","Didžiausias pašto kodas ilgis yra 9.",module,Magento_Tax
+"Use digits only for the zip code.","Pašto kode naudokite tik skaitmenis",module,Magento_Tax
+"Shipping Address","Pristatymo Adresas",module,Magento_Tax
+"Billing Address","Atsiskaitymo Adresas",module,Magento_Tax
+"Subtotal (Excl. Tax)","Tarpinė suma (be mokesčių)",module,Magento_Tax
+"Subtotal (Incl. Tax)","Iš viso (su PVM)",module,Magento_Tax
+Subtotal,"Tarpinė suma",module,Magento_Tax
+Total,"Iš viso",module,Magento_Tax
+Save,Išsaugoti,module,Magento_Tax
+Back,Grįžti,module,Magento_Theme
+"Save and Continue","Išsaugoti ir tęsti",module,Magento_Theme
+"Save and Continue Edit","Išsaugoti ir tęsti redagavimą",module,Magento_Theme
+Message,Žinutė,module,Magento_Theme
+Edit,Redaguoti,module,Magento_Theme
+"Items %1 to %2 of %3 total","%1 - %2 iš %3",module,Magento_Theme
+"%1 Item","%1 įrašas",module,Magento_Theme
+Previous,Ankstesnis,module,Magento_Theme
+Next,Toliau,module,Magento_Theme
+Show,Rodyti,module,Magento_Theme
+"per page","per puslapį",module,Magento_Theme
+Cancel,Atšaukti,module,Magento_Ui
+Back,Grįžti,module,Magento_Ui
+Next,Toliau,module,Magento_Ui
+SKU,"Prekės kodas",module,Magento_UrlRewrite
+Status,Būsena,module,Magento_UrlRewrite
+Delete,Ištrinti,module,Magento_UrlRewrite
+Save,Išsaugoti,module,Magento_UrlRewrite
+Description,Aprašymas,module,Magento_UrlRewrite
+Back,Grįžti,module,Magento_User
+"First Name",Vardas,module,Magento_User
+"Last Name",Pavardė,module,Magento_User
+Email,"El. paštas",module,Magento_User
+Status,Būsena,module,Magento_User
+"Your Password","Jūsų slaptažodis",module,Magento_User
+"Account Information","Mano Informacija",module,Magento_User
+Password,Slaptažodis,module,Magento_User
+"New Password","Naujas slaptažodis",module,Magento_User
+"Password Confirmation","Slaptažodžio patvirtinimas",module,Magento_User
+password,slaptažodis,module,Magento_User
+"You did not sign in correctly or your account is temporarily disabled.","Prašome patikslinti prisijungimo duomenis, nepavykus prisijungti susisiekite su administratoriumi.",module,Magento_User
+"First Name is a required field.","Vardas yra būtinas laukas.",module,Magento_User
+"Last Name is a required field.","Pavardė yra būtinas laukas.",module,Magento_User
+"Password is required field.","Slaptažodio laukas yra būtinas.",module,Magento_User
+"Password Help","Slaptažodžio pagalba",module,Magento_User
+"Email address","El. paštas",module,Magento_User
+"Forgot your password?","Pamiršote slaptažodį?",module,Magento_User
+"Reset a Password","Atstatyti slaptažodį",module,Magento_User
+"Confirm New Password","Patvirtinti naują slaptažodį",module,Magento_User
+"Reset Password","Atstatyti slaptažodį",module,Magento_User
+Yes,Taip,module,Magento_Usps
+"Save and Continue Edit","Išsaugoti ir tęsti redagavimą",module,Magento_Variable
+Yes,Taip,module,Magento_Variable
+"Stored Payment Methods","Mano mokėjimo būdai",module,Magento_Vault
+"Expiration Date","Galiojimo data",module,Magento_Vault
+"You have no stored payment methods.","Jūs neturite išsaugoję jokio mokėjimo būdo.",module,Magento_Vault
+Actions,Veiksmai,module,Magento_Vault
+Delete,Ištrinti,module,Magento_Vault
+message,žinutė,module,Magento_Webapi
+Message,Žinutė,module,Magento_Webapi
+Tax,Mokesčiai,module,Magento_Weee
+Action,Veiksmas,module,Magento_Weee
+Total,"Iš viso",module,Magento_Weee
+"Total Incl. Tax","Iš viso (su PVM)",module,Magento_Weee
+"Save and Continue Edit","Išsaugoti ir tęsti redagavimą",module,Magento_Widget
+Continue,Tęsti,module,Magento_Widget
+name,vardas,module,Magento_Widget
+description,aprašymas,module,Magento_Widget
+Apply,Pritaikyti,module,Magento_Widget
+"Wish List","Pageidavimų sąrašas",module,Magento_Wishlist
+"Wish List Sharing","Dalintis pageidavimų sąrašu",module,Magento_Wishlist
+"My Wish List","Mano norų sąrašas",module,Magento_Wishlist
+"%1's Wish List","%1's pageidavimų sąrašas",module,Magento_Wishlist
+"Page not found.","Puslapis nerastas.",module,Magento_Wishlist
+"You added %1 to your shopping cart.","%1 įkelta į krepšelį.",module,Magento_Wishlist
+"%1 has been moved to your wish list.","%1 buvo perkelta(-as) į jūsų norų sąrašą.",module,Magento_Wishlist
+"Please enter a valid email address.","Prašome įvesti galiojantį el. pašto adresą.",module,Magento_Wishlist
+"Your wish list has been shared.","Jūsų norų sąrašu buvo pasidalyta.",module,Magento_Wishlist
+"%1 items","%1 įrašai(-ų)",module,Magento_Wishlist
+Comment,Komentaras,module,Magento_Wishlist
+"%1 product(s) have been added to shopping cart: %2.","%1 produktas(-ų) buvo pridėta į pirkinių krepšelį: %2.",module,Magento_Wishlist
+message,žinutė,module,Magento_Wishlist
+Message,Žinutė,module,Magento_Wishlist
+"Share Wish List","Dalintis norų sąrašu",module,Magento_Wishlist
+"Add All to Cart","Viską į krepšelį",module,Magento_Wishlist
+"Update Wish List","Atnaujinti norų sąrašą",module,Magento_Wishlist
+"Move to Wishlist","Perkelti į norų sąrašą",module,Magento_Wishlist
+"Add to Wish List","Į pageidavimų sąrašą",module,Magento_Wishlist
+Qty,Kiekis,module,Magento_Wishlist
+"Add to Cart","Į krepšelį",module,Magento_Wishlist
+Availability,Prieinamumas,module,Magento_Wishlist
+"In stock",Sandėlyje,module,Magento_Wishlist
+"Out of stock","Nėra sandėlyje",module,Magento_Wishlist
+Edit,Redaguoti,module,Magento_Wishlist
+"Remove Item",Ištrinti,module,Magento_Wishlist
+"Remove item",Ištrinti,module,Magento_Wishlist
+"Add to Compare","Pridėti palyginimui",module,Magento_Wishlist
+"%1 has been added to your Wish List.","%1 buvo pridėta į jūsų pageidavimų sąrašą.",module,Magento_Wishlist
+"Click <a href=""%1"">here</a> to continue shopping.","Spauskite <a href=""%1"">čia</a> norėdami tęsti apsipirkimą.",module,Magento_Wishlist
+Back,Grįžti,module,Magento_Wishlist
+"* Required Fields","* Privalomi laukai",module,Magento_Wishlist
+"Sharing Information","Dalinimosi informacija",module,Magento_Wishlist
+"Email addresses, separated by commas","Įvesti kelis el. pašto adresus, atskirkite juos kableliais",module,Magento_Wishlist
+"Check here to link an RSS feed to your Wish List.","Pažymėkite čia norėdami susieti RSS kanalą su savo norų sąrašu.",module,Magento_Wishlist
+"You have no items in your wish list.","Jūs neturite prekių savo norų sąraše.",module,Magento_Wishlist
+"Place Order",Užsakyti,module,Magento_Authorizenet
+"Credit Card Information","Kreditinės kortelės informacija",module,Magento_Braintree
+"Save for later use.","Išsaugoti vėlesniam naudojimui.",module,Magento_Braintree
+"Place Order",Užsakyti,module,Magento_Braintree
+Total:,"Iš viso:",module,Magento_Checkout
+"Shipping Address:","Pristatymo Adresas:",module,Magento_Checkout
+"Shipping Method:","Pristatymo būdas:",module,Magento_Checkout
+"Payment Method:","Mokėjimo būdas:",module,Magento_Checkout
+"Sign In",Prisijungti,module,Magento_Checkout
+"Email Address","El. paštas",module,Magento_Checkout
+Password,Slaptažodis,module,Magento_Checkout
+"Forgot Your Password?","Pamiršote slaptažodį?",module,Magento_Checkout
+"My billing and shipping address are the same","Mano pristatymo bei atsiskaitymo adresas yra tas pats",module,Magento_Checkout
+Update,Atnaujinti,module,Magento_Checkout
+Cancel,Atšaukti,module,Magento_Checkout
+"Save in address book","Įrašyti adresų knygelėje",module,Magento_Checkout
+"Estimated Total","Numatoma suma",module,Magento_Checkout
+"You can create an account after checkout.","Jūs galėsite sukurtį paskyra po užsakymo.",module,Magento_Checkout
+"You already have an account with us. Sign in or continue as guest.","Jūs jau turite sąskaitą pas mus. Prisijunkite arba tęskite kaip svečias.",module,Magento_Checkout
+Login,Prisijungti,module,Magento_Checkout
+"See Details","Peržiūrėti detales",module,Magento_Checkout
+"Cart Subtotal","Krepšelio tarpinė suma",module,Magento_Checkout
+"You can track your order status by creating an account.","Savo užsakymo būseną galite sekti ir sukūrus savo paskyrą.",module,Magento_Checkout
+"Place Order",Užsakyti,module,Magento_Checkout
+"Ship Here","Siųsti čia",module,Magento_Checkout
+"Ship To:",Gavėjas:,module,Magento_Checkout
+edit,redaguoti,module,Magento_Checkout
+"Order Summary","Užsakymo santrauka",module,Magento_Checkout
+"View and Edit Cart","Peržiūrėti ir redaguoti krepšelį",module,Magento_Checkout
+"View Details","Peržiūrėti detales",module,Magento_Checkout
+"Contact Form","Kontaktų Forma",module,Magento_Contact
+Phone,Telefonas,module,Magento_Contact
+Password:,Slaptažodis:,module,Magento_Customer
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Pamiršote savo slaptažodį? Spustelėkite <a href=""%reset_url""> čia</a> norėdami jį atkurti.",module,Magento_Customer
+"Confirm Your Account","Patvirtinkite savo paskyrą",module,Magento_Customer
+"Email Address","El. paštas",module,Magento_Customer
+"Thank you, %store_name","Ačiū, %store_name",module,Magento_Email
+Message:,Žinutė:,module,Magento_GiftMessage
+Update,Atnaujinti,module,Magento_GiftMessage
+Edit,Redaguoti,module,Magento_GiftMessage
+Delete,Ištrinti,module,Magento_GiftMessage
+"You have been successfully subscribed to our newsletter.","Jūs sėkmingai užsiprenumeravote mūsų naujienlaiškį.",module,Magento_Newsletter
+"You have been unsubscribed from the newsletter.","Jūs buvote ištrintas iš mūsų naujienlaiškio.",module,Magento_Newsletter
+"Place Order",Užsakyti,module,Magento_OfflinePayments
+"Place Order",Užsakyti,module,Magento_Payment
+"Edit Your Cart","Redaguoti krepšelį",module,Magento_Payment
+"Continue to PayPal","Tęsti su PayPal",module,Magento_Paypal
+"Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Pažymėti ""prisiminti mane"", kad galėtumėt prieiti prie jūsų pirkinių krepšelio šiame kompiuteryje, net jei jūs neprisijungęs prie savo sąskaitos.",module,Magento_Persistent
+"Apply Discount Code","Įvesk nuolaidos kodą",module,Magento_SalesRule
+"Enter discount code","Nuolaidos kodas",module,Magento_SalesRule
+"Apply Discount","Pritaikyti nuolaidą",module,Magento_SalesRule
+"Cancel coupon","Atšaukti kuponą",module,Magento_SalesRule
+Password:,Slaptažodis:,module,Magento_Theme
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Pamiršote savo slaptažodį? Spustelėkite <a href=""%reset_url""> čia</a> norėdami jį atkurti.",module,Magento_Theme
+"Thank you,","Ačiū,",module,Magento_User
+Submit,Siųsti,module,Magento_Catalog
+OK,Gerai,module,Magento_Catalog
+Adding...,Dedama...,module,Magento_Catalog
+Added,Pridėta,module,Magento_Catalog
+"Provided Zip/Postal Code seems to be invalid.","Jūsų įvesto pašto kodo struktūra netinkama.",module,Magento_Checkout
+" Example: "," Pavyzdys: ",module,Magento_Checkout
+"If you believe it is the right one you can ignore this notice.","Jei manote, kad įrašėte teisingai, galite ignoruoti šį pranešimą.",module,Magento_Checkout
+"New Address","Naujas adresas",module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","Ar tikrai norite ištrinti šią prekę?",module,Magento_Checkout
+"Review & Payments","Apmokėjimas & Patvirtinimas",module,Magento_Checkout
+Shipping,Pristatymas,module,Magento_Checkout
+"Save Address","Išsaugoti adresą",module,Magento_Checkout
+"Please specify a shipping method.","Pasirinkite siuntimo būdą.",module,Magento_Checkout
+save,išsaugoti,module,Magento_ConfigurableProduct
+"Are you sure you want to delete this address?","Jūs įsitikinęs, kad norite ištrinti šį adresą?",module,Magento_Customer
+Weak,Silpnas,module,Magento_Customer
+Medium,Vidutinis,module,Magento_Customer
+Strong,Stiprus,module,Magento_Customer
+Save,Išsaugoti,module,Magento_ProductVideo
+Cancel,Atšaukti,module,Magento_ProductVideo
+Delete,Ištrinti,module,Magento_ProductVideo
+"Your coupon was successfully removed.","Kuponas sėkmingai ištrintas.",module,Magento_SalesRule
+"Your coupon was successfully applied.","Kuponas sėkmingai pritaikytas.",module,Magento_SalesRule
+Ok,Gerai,module,Magento_Sales
+Yes,Taip,module,Magento_Ui
+"Search by keyword","Ieškoti pagal raktažodį",module,Magento_Ui
+Keyword,Raktažodis,module,Magento_Ui
+"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Jūsų pašto kodą turi būti tarp 902xx-xxxx ir 905-xx-xxxx",module,Magento_Ui
+"Please select an option.","Prašome pažymėti pasirinkimą.",module,Magento_Ui
+"Please enter a valid email address (Ex: johndoe@domain.com).","Prašome įvesti galiojantį el. pašto adresą (pvz: jonas@jonaitis.com).",module,Magento_Ui
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Minimaliausias ilgis šiame lauke turi būti lygus arba didesnis nei %1 simboliai.",module,Magento_Ui
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Slaptažodyje minimalus skirtingų tipų simbolių turi būti %1. Tipai simbolių: mažosios, didžiosio raidės, skaitmenys, specialūs simboliai.",module,Magento_Ui
+"Please enter a valid zip code (Ex: 90602 or 90602-1234).","Prašome įvesti galiojantį pašto kodą (pvz: 90602 arba 90602-1234).",module,Magento_Ui
+"Please enter a valid zip code.","Prašome įvesti galiojantį pašto kodą.",module,Magento_Ui
+"Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Prašome įvesti galiojantį el. pašto adresus, atskirdami juos kableliais. Pvz., jonas@jonaitis.com, petras@petraitis.com.",module,Magento_Ui
+"This is a required field.","Tai yra privalomas laukas.",module,Magento_Ui
+OK,Gerai,module,Magento_Ui
+Ok,Gerai,module,Magento_Ui
+Cancel,Atšaukti,module,Magento_Vault
+Message,Žinutė,module,Magento_AdminNotification
+Actions,Veiksmai,module,Magento_AdminNotification
+Content,Turinys,module,Magento_Backend
+Country,Šalis,module,Magento_Backend
+"ZIP/Postal Code","Pašto kodas",module,Magento_Backend
+City,Miestas,module,Magento_Backend
+"Street Address","Gatvė ir numeris",module,Magento_Backend
+"VAT Number","PVM mokėtojo kodas",module,Magento_Backend
+Description,Aprašymas,module,Magento_Backend
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading""> 404 klaida</h1> <p>Puslapis nerastas.</p>",module,Magento_Backend
+Delete,Ištrinti,module,Magento_Backup
+Name,Vardas,module,Magento_Backup
+Action,Veiksmas,module,Magento_Backup
+Name,Vardas,module,Magento_Braintree
+Phone,Telefonas,module,Magento_Braintree
+"Order ID","Užsakymo nr.",module,Magento_Braintree
+Description,Aprašymas,module,Magento_CatalogRule
+Actions,Veiksmai,module,Magento_CatalogRule
+Yes,Taip,module,Magento_CatalogRule
+"Popular Search Terms","Populiariausi paieškos terminai",module,Magento_CatalogSearch
+Content,Turinys,module,Magento_Catalog
+Description,Aprašymas,module,Magento_Catalog
+"Meta Keywords","Meta Raktažodžiai",module,Magento_Catalog
+Details,Išsamiau,module,Magento_Catalog
+"Add To Cart","Į krepšelį",module,Magento_Catalog
+"Add To Compare","Pridėti palyginimui",module,Magento_Catalog
+"Terms & Conditions","Taisyklės ir Sąlygos",module,Magento_CheckoutAgreements
+Summary,Santrauka,module,Magento_Checkout
+"Order Total","Užsakymo suma",module,Magento_Checkout
+"Shipping Address","Pristatymo Adresas",module,Magento_Checkout
+"We'll send your order confirmation here.","Čia išsiųsime užsakymo patvirtinimą.",module,Magento_Checkout
+"Not yet calculated","Dar nepaskaičiuota",module,Magento_Checkout
+"Thank you for your purchase!","Dėkojame už jūsų užsakymą!",module,Magento_Checkout
+Content,Turinys,module,Magento_Cms
+"Meta Keywords","Meta Raktažodžiai",module,Magento_Cms
+Contacts,Kontaktai,module,Magento_Contact
+"Contact Us",Kontaktai,module,Magento_Contact
+"Email Options","El. pašto parinktys",module,Magento_Contact
+"Always optional.","Visada neprivaloma.",module,Magento_Customer
+Phone,Telefonas,module,Magento_Customer
+"Billing Lastname","Mokėtojo pavardė",module,Magento_Customer
+"First Name",Vardas,module,Magento_Customer
+"Last Name",Pavardė,module,Magento_Customer
+"Account Dashboard","Paskyros skydelis",module,Magento_Customer
+"Edit Account Information","Redaguoti paskyros informaciją",module,Magento_Customer
+"Password forgotten","Pamirštas slaptažodis",module,Magento_Customer
+"My Dashboard","Valdymo skydelis",module,Magento_Customer
+"You are signed out",Atsijungėte,module,Magento_Customer
+Password,Slaptažodis,module,Magento_Dhl
+"Zip/Postal Code is Optional for","Pašto kodas yra neprivalomas",module,Magento_Directory
+Added,Pridėta,module,Magento_Email
+Action,Veiksmas,module,Magento_Email
+Password,Slaptažodis,module,Magento_Fedex
+Summary,Santrauka,module,Magento_ImportExport
+Description,Aprašymas,module,Magento_Indexer
+Status,Būsena,module,Magento_Indexer
+"Select Shipping Method","Pasirinkite pristatymo būdą",module,Magento_Multishipping
+Subscriber,Prenumeratorius,module,Magento_Newsletter
+Delete,Ištrinti,module,Magento_Newsletter
+"Customer First Name","Kliento vardas",module,Magento_Newsletter
+"Customer Last Name","Kliento pavardė",module,Magento_Newsletter
+Subscribed,Prenumeruojamas,module,Magento_Newsletter
+"Newsletter Subscriptions","Naujienlaiškių prenumeratos",module,Magento_Newsletter
+"Bank Transfer Payment","Banko pavedimu",module,Magento_OfflinePayments
+"Cash On Delivery Payment","Grynais pinigais pristatymo metu",module,Magento_OfflinePayments
+Price,Kaina,module,Magento_OfflineShipping
+"Free Shipping","Nemokamas pristatymas",module,Magento_OfflineShipping
+Actions,Veiksmai,module,Magento_Paypal
+"Home Page","Pradinis puslapis",module,Magento_Paypal
+Position,Rikiavimas,module,Magento_Paypal
+Login,Prisijungti,module,Magento_Paypal
+Password,Slaptažodis,module,Magento_Paypal
+"Search Terms","Paieškos terminai",module,Magento_Reports
+"Order Total","Užsakymo suma",module,Magento_Reports
+Ordered,Užsakyta,module,Magento_Reports
+Action,Veiksmas,module,Magento_Reports
+Description,Aprašymas,module,Magento_Reports
+Back,Grįžti,module,Magento_SalesRule
+Description,Aprašymas,module,Magento_SalesRule
+Apply,Pritaikyti,module,Magento_SalesRule
+Address,Adresas,module,Magento_Sales
+"Subtotal after discount","Tarpinė suma po nuolaidos",module,Magento_Sales
+"Orders and Returns Search Form","Užsakymų ir Grąžinimų paieškos forma",module,Magento_Sales
+Name,Vardas,module,Magento_Sales
+Phone,Telefonas,module,Magento_Sales
+"ZIP/Post Code","Pašto kodas",module,Magento_Sales
+"Invoice Date","Sąskaitos-faktūros data",module,Magento_Sales
+"Total Quantity","Bendras kiekis",module,Magento_Sales
+"Print Invoices","Spausdinti sąskaitas",module,Magento_Sales
+yes,taip,module,Magento_Search
+Action,Veiksmas,module,Magento_Search
+Edit,Redaguoti,module,Magento_Search
+Country,Šalis,module,Magento_Shipping
+"ZIP/Postal Code","Pašto kodas",module,Magento_Shipping
+City,Miestas,module,Magento_Shipping
+"Street Address",Adresas,module,Magento_Shipping
+"Shipping Methods","Pristatymo būdai",module,Magento_Shipping
+"Track your order","Sekti užsakymą",module,Magento_Shipping
+Action,Veiksmas,module,Magento_Sitemap
+"Order Total","Užsakymo suma",module,Magento_Tax
+Action,Veiksmas,module,Magento_Ui
+Password,Slaptažodis,module,Magento_Ups
+Action,Veiksmas,module,Magento_UrlRewrite
+Edit,Redaguoti,module,Magento_UrlRewrite
+"Password Change","Slaptažodžio keitimas",module,Magento_User
+Password,Slaptažodis,module,Magento_Usps
+Name,Vardas,module,Magento_Variable
+"Orders and Returns","Užsakymai ir Grąžinimai",module,Magento_Widget
+"Orders and Returns Search Form","Užsakymų ir Grąžinimų paieškos forma",module,Magento_Widget
+"My Wish List Link","Mano norų sąrašo nuoroda",module,Magento_Wishlist
+"Product Name","Prekės pavadinimas",module,Magento_Wishlist
+Action,Veiksmas,module,Magento_Wishlist
+Delete,Ištrinti,module,Magento_Wishlist
