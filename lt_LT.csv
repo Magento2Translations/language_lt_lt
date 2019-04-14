@@ -70,6 +70,7 @@ Search,Ieškoti,module,Magento_Backend
 "Date selector","Datos parinkiklis",module,Magento_Backend
 "[ deleted ]","[ ištrinta ]",module,Magento_Backend
 "Select All","Rinktis viską",module,Magento_Backend
+" [deleted]"," [ištrinta]",module,Magento_Backend
 "Add New","Pridėti naują",module,Magento_Backend
 Export,Eksportuoti,module,Magento_Backend
 Submit,Siųsti,module,Magento_Backend
@@ -230,6 +231,7 @@ State/Province,Rajonas/apskritis,module,Magento_Checkout
 Checkout,Pirkti,module,Magento_Checkout
 "Page not found.","Puslapis nerastas.",module,Magento_Checkout
 "Unable to save address. Please, check input data.","Nepavyko išsaugoti adreso. Patikrinkite įvestus duomenis.",module,Magento_Checkout
+" item"," prekė",module,Magento_Checkout
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Turėsite aktyvuoti savo paskyrą. Jūsų el. paštu išsiuntėme laišką su aktyvavimo nuoroda. Jeigu jūs negavote laiško <a href=""%1""> paspaudę čia</a> išsiūsime naują.",module,Magento_Checkout
 "Load customer quote error","Įkelto kliento klaida",module,Magento_Checkout
 Error!,Klaida!,module,Magento_Checkout
@@ -493,6 +495,7 @@ Price,Kaina,module,Magento_Multishipping
 Subtotal,"Tarpinė suma",module,Magento_Multishipping
 "Grand Total:","Iš Viso:",module,Magento_Multishipping
 "Thank you for your purchase!","Dėkojame už jūsų užsakymą!",module,Magento_Multishipping
+"Your order number is: ","Jūsų užsakymo nr.:",module,Magento_Multishipping
 "Continue Shopping","Tęsti apsipirkimą",module,Magento_Multishipping
 Back,Grįžti,module,Magento_Newsletter
 Message,Žinutė,module,Magento_Newsletter
@@ -665,6 +668,8 @@ N/A,N/D,module,Magento_Sales
 "You entered incorrect data. Please try again.","Įvedėte neteisingus duomenis. Bandykite dar kartą.",module,Magento_Sales
 Home,Pradžia,module,Magento_Sales
 "Go to Home Page","Grįžti į pradinį puslapį",module,Magento_Sales
+"Shipping Address: ","Pristatymo Adresas: ",module,Magento_Sales
+"Billing Address: ","Atsiskaitymo Adresas: ",module,Magento_Sales
 "Please specify a shipping method.","Pasirinkite siuntimo būdą.",module,Magento_Sales
 "Please specify a payment method.","Pasirinkite apmokėjimo būdą.",module,Magento_Sales
 "Please enter the first name.","Prašome įvesti vardą.",module,Magento_Sales
@@ -673,12 +678,15 @@ Home,Pradžia,module,Magento_Sales
 Pending,Laukiama,module,Magento_Sales
 Canceled,Atšauktas,module,Magento_Sales
 Ordered,Užsakyta,module,Magento_Sales
+"Order # ","Užsakymo nr.",module,Magento_Sales
+"Order Date: ","Užsakymo data: ",module,Magento_Sales
 "Sold to:","Jūsų informacija:",module,Magento_Sales
 "Ship to:",Gavėjas:,module,Magento_Sales
 "Payment Method:","Mokėjimo būdas:",module,Magento_Sales
 "Shipping Method:","Pristatymo būdas:",module,Magento_Sales
 Qty,Kiekis,module,Magento_Sales
 Tax,Mokesčiai,module,Magento_Sales
+"Invoice # ","Sąskaita # ",module,Magento_Sales
 City,Miestas,module,Magento_Sales
 Company,Įmonė,module,Magento_Sales
 Country,Šalis,module,Magento_Sales
@@ -878,10 +886,6 @@ Back,Grįžti,module,Magento_Wishlist
 "Email addresses, separated by commas","Įvesti kelis el. pašto adresus, atskirkite juos kableliais",module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","Pažymėkite čia norėdami susieti RSS kanalą su savo norų sąrašu.",module,Magento_Wishlist
 "You have no items in your wish list.","Jūs neturite prekių savo norų sąraše.",module,Magento_Wishlist
-Previous,Ankstesnis,theme,frontend/Magento/luma
-Remove,Pašalinti,theme,frontend/Magento/luma
-"Remove This Item","Pašalinti šią prekę",theme,frontend/Magento/luma
-"Clear All","Išvalyti viską",theme,frontend/Magento/luma
 Total:,"Iš viso:",module,Magento_Checkout
 "Shipping Address:","Pristatymo Adresas:",module,Magento_Checkout
 "Shipping Method:","Pristatymo būdas:",module,Magento_Checkout
@@ -893,19 +897,6 @@ Password:,Slaptažodis:,module,Magento_Customer
 "You have been successfully subscribed to our newsletter.","Jūs sėkmingai užsiprenumeravote mūsų naujienlaiškį.",module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.","Jūs buvote ištrintas iš mūsų naujienlaiškio.",module,Magento_Newsletter
 "Thank you,","Ačiū,",module,Magento_User
-Email:,"El. paštas:",theme,frontend/Magento/luma
-Password:,Slaptažodis:,theme,frontend/Magento/luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Pamiršote savo slaptažodį? Spustelėkite <a href=""%reset_url""> čia</a> norėdami jį atkurti.",theme,frontend/Magento/luma
-"Quick Checkout","Greitas užsakymas",theme,frontend/Magento/luma
-"Order Status","Užsakymo būsena",theme,frontend/Magento/luma
-"Manage Addresses","Redaguoti adresus",theme,frontend/Magento/luma
-"Order History","Užsakymų istorija",theme,frontend/Magento/luma
-"About Us","Apie mus",theme,frontend/Magento/luma
-"Thank you for your order from %store_name.","Dėkojame už jūsų užsakymą iš %store_name.",theme,frontend/Magento/luma
-"Billing Info","Atsiskaitymo informacija",theme,frontend/Magento/luma
-"Shipping Info","Pristatymo informacija",theme,frontend/Magento/luma
-"Payment Method","Mokėjimo būdas",theme,frontend/Magento/luma
-"Shipping Method","Pristatymo būdas",theme,frontend/Magento/luma
 Ok,Gerai,module,Magento_Catalog
 Cancel,Atšaukti,module,Magento_Catalog
 Submit,Siųsti,module,Magento_Catalog
@@ -1017,10 +1008,3 @@ Name,Vardas,module,Magento_Variable
 "Product Name","Prekės pavadinimas",module,Magento_Wishlist
 Action,Veiksmas,module,Magento_Wishlist
 Delete,Ištrinti,module,Magento_Wishlist
-Summary,Santrauka,theme,frontend/Magento/blank
-"Account Dashboard","Paskyros skydelis",theme,frontend/Magento/blank
-"Account Information","Mano Informacija",theme,frontend/Magento/blank
-"Address Book","Mano Adresai",theme,frontend/Magento/blank
-Menu,Meniu,theme,frontend/Magento/blank
-Account,Paskyra,theme,frontend/Magento/blank
-Settings,Nustatymai,theme,frontend/Magento/blank
